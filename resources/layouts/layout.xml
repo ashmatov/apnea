@@ -1,0 +1,42 @@
+<resources>
+	<layout id="Test">
+		<label id="HeartrateLabel" x="center" y="20" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+		<label id="CurrentLapLabel" x="center" y="center" font="Gfx.FONT_NUMBER_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="@Strings.lap_zero_time" />
+		<label id="OxygenSaturationLabel" x="center" y="180" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+	</layout>
+	
+	<layout id="CO2">
+	    <label id="TextLabel" x="center" y="10" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+		<label id="HeartrateLabel" x="105" y="70" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
+		<label id="OxygenSaturationLabel" x="105" y="130" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
+		<label id="CurrentLapLabel" x="130" y="130" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" text="@Strings.lap_zero_time" />
+		<label id="GoalTimeLabel" x="130" y="70" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" text="@Strings.lap_zero_time" />
+		<label id="TotalTimeLabel" x="center" y="200" font="Gfx.FONT_NUMBER_MILD" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="@Strings.total_zero_time" />
+	</layout>
+	
+	<layout id="O2">
+	    <label id="TextLabel" x="center" y="10" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+		<label id="HeartrateLabel" x="105" y="70" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
+		<label id="OxygenSaturationLabel" x="105" y="130" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
+		<label id="CurrentLapLabel" x="130" y="130" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" text="@Strings.lap_zero_time" />
+		<label id="GoalTimeLabel" x="130" y="70" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" text="@Strings.lap_zero_time" />
+		<label id="TotalTimeLabel" x="center" y="200" font="Gfx.FONT_NUMBER_MILD" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="@Strings.total_zero_time" />
+	</layout>
+	
+	<layout id="Manual">
+	    <label id="TextLabel" x="center" y="10" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+		<label id="HeartrateLabel" x="center" y="50" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+		<label id="CurrentLapLabel" x="center" y="110" font="Gfx.FONT_NUMBER_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="@Strings.lap_zero_time" />
+		<label id="OxygenSaturationLabel" x="center" y="200" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
+	</layout>
+		
+	<layout id="Square">
+	    <label id="TextLabel" x="center" y="10" font="Gfx.FONT_MEDIUM" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+		<label id="HeartrateLabel" x="105" y="70" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
+		<label id="OxygenSaturationLabel" x="105" y="130" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_RIGHT" color="Gfx.COLOR_WHITE" />
+		<label id="CurrentLapLabel" x="130" y="130" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" text="@Strings.lap_zero_time" />
+		<label id="GoalTimeLabel" x="130" y="70" font="Gfx.FONT_NUMBER_MEDIUM" justification="Gfx.TEXT_JUSTIFY_LEFT" color="Gfx.COLOR_WHITE" text="@Strings.lap_zero_time" />
+		<label id="TotalTimeLabel" x="center" y="200" font="Gfx.FONT_NUMBER_MILD" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" text="@Strings.total_zero_time" />
+	</layout>
+
+</resources>

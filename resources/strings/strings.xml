@@ -1,0 +1,45 @@
+<strings>
+
+    <string id="AppName">Apnea</string>
+
+    <string id="title">Training</string>
+    <string id="test">Test</string>
+    <string id="o2">O2</string>
+    <string id="co2">CO2</string>
+    <string id="manual">Manual</string>
+    <string id="square">Square</string>
+    <string id="test_history">Test history</string>
+    
+    <string id="no_value">--</string>
+    <string id="total_zero_time">00:00:00</string>
+    <string id="lap_zero_time">00:00</string>
+    
+    <string id="sound">sound</string>
+    <string id="vibration">vibration</string>
+    <string id="alertF">1st alert</string>
+    <string id="alertS">2nd alert</string>
+    <string id="alertT">3nd alert</string>
+    <string id="circle">Circle</string>
+    
+    <string id="breath">Breath</string>
+    <string id="hold">Hold</string>
+    <string id="holdF">Hold first</string>
+	<string id="holdS">Hold second</string>
+	<string id="inhale">Inhale</string>
+	<string id="exhale">Exhale</string>
+ 
+    <string id="options">Options:</string>
+    <string id="set_sec">Set seconds:</string>
+    <string id="set_min">Set minutes:</string>
+    <string id="set_circle">Set circle:</string>
+    <string id="edit_rows">Edit rows:</string>
+    <string id="clear_all">Clear all rows</string>
+    <string id="delete_row">Delete row</string>
+    <string id="row_num">Row number:</string>
+    
+	<string id="yes">Yes</string>
+    <string id="no">No</string>
+    
+    <string id="save_history">Save to history?</string>
+
+</strings>
